@@ -6,5 +6,58 @@
     "motions" : [
     ],
     "fees" : {
-    }
+    },
+    "reputations" : [
+    ],
+    "signerreward" : {
+        "count" : null,
+        "amount" : null
+    },
+    "assets" : [
+        {
+            "assetid" : "BKC",
+            "confirmations" : 6,
+            "reqsigners" : 3,
+            "totalsigners" : 6,
+            "maxtrade" : 1000.0,
+            "mintrade" : 1.0,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "BKS",
+            "confirmations" : 6,
+            "reqsigners" : 3,
+            "totalsigners" : 6,
+            "maxtrade" : 200.0,
+            "mintrade" : 1.0,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "BTC",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 6,
+            "maxtrade" : 3.0,
+            "mintrade" : 0.001,
+            "unitexponent" : 8
+        },
+        {
+            "assetid" : "NBT",
+            "confirmations" : 6,
+            "reqsigners" : 3,
+            "totalsigners" : 6,
+            "maxtrade" : 1000.0,
+            "mintrade" : 1.0,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "PPC",
+            "confirmations" : 6,
+            "reqsigners" : 3,
+            "totalsigners" : 6,
+            "maxtrade" : 2000.0,
+            "mintrade" : 1.0,
+            "unitexponent" : 6
+        }
+    ]
 }
