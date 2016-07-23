@@ -1,19 +1,35 @@
 {
+    "versionvote" : "5.0",
     "custodians" : [
     ],
     "parkrates" : [
     ],
     "motions" : [
-        "c02ce082d1a88bc1a9867b3eccee534169954c6e",
-        "c1e9a92ca18591e78c7489b658bf414da7bd1a2e"
+        "c02ce082d1a88bc1a9867b3eccee534169954c6e"
     ],
     "fees" : {
     },
     "reputations" : [
+        {
+            "address" : "8ZzENdnyZLDvsZPJmZhQYtdzaBwSKDLXGX",
+            "weight" : 100
+        },
+        {
+            "address" : "8WP6o6HrXQwc8hfhZPKzGGdd238UqCsRqz",
+            "weight" : 100
+        },
+        {
+            "address" : "8XQaJSXNFk5kijspiphx17EdET6QuDPi2a",
+            "weight" : 100
+        },
+        {
+            "address" : "8eA3FVjGUE2KFDJy6qSQxZb3MZdoqLf3ZL",
+            "weight" : 100
+        }
     ],
     "signerreward" : {
-        "count" : null,
-        "amount" : null
+        "count" : 6,
+        "amount" : 0.001
     },
     "assets" : [
         {
