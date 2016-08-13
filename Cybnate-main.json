@@ -5,13 +5,27 @@
     "parkrates" : [
     ],
     "motions" : [
-        "c02ce082d1a88bc1a9867b3eccee534169954c6e"
+        "526147ee5cca5996192647a457a19c7d0749ed0d",
+        "58ca74b14b6ea4fc73aa943688d52c590f60b1e5",
+        "1f8d60f8c1ab0016aa2653fd9c7ef6de89d7b8bb"
     ],
     "fees" : {
     },
     "reputations" : [
         {
+            "address" : "8XQaJSXNFk5kijspiphx17EdET6QuDPi2a",
+            "weight" : 100
+        },
+        {
+            "address" : "8KXAthBdtPWokQRXB93FzPTKvBH5WXdTxV",
+            "weight" : 100
+        },
+        {
             "address" : "8ZzENdnyZLDvsZPJmZhQYtdzaBwSKDLXGX",
+            "weight" : 100
+        },
+        {
+            "address" : "8c3VfkYUUaFWp75SiMhFasmWwmYVoWqTaT",
             "weight" : 100
         },
         {
@@ -19,17 +33,17 @@
             "weight" : 100
         },
         {
-            "address" : "8XQaJSXNFk5kijspiphx17EdET6QuDPi2a",
+            "address" : "8eA3FVjGUE2KFDJy6qSQxZb3MZdoqLf3ZL",
             "weight" : 100
         },
         {
-            "address" : "8eA3FVjGUE2KFDJy6qSQxZb3MZdoqLf3ZL",
+            "address" : "8VTtwxu2T1yYUiXoq8BtGAjXxwPySRfFaX",
             "weight" : 100
         }
     ],
     "signerreward" : {
-        "count" : 6,
-        "amount" : 0.001
+        "count" : 8,
+        "amount" : 0.01
     },
     "assets" : [
         {
