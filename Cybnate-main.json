@@ -5,23 +5,23 @@
     "parkrates" : [
     ],
     "motions" : [
-        "526147ee5cca5996192647a457a19c7d0749ed0d",
         "58ca74b14b6ea4fc73aa943688d52c590f60b1e5",
-        "1f8d60f8c1ab0016aa2653fd9c7ef6de89d7b8bb"
+        "1f8d60f8c1ab0016aa2653fd9c7ef6de89d7b8bb",
+        "f73d264a2053b6eb3bcd2166a2052083f4083972"
     ],
     "fees" : {
     },
     "reputations" : [
+        {
+            "address" : "8ZzENdnyZLDvsZPJmZhQYtdzaBwSKDLXGX",
+            "weight" : 100
+        },
         {
             "address" : "8XQaJSXNFk5kijspiphx17EdET6QuDPi2a",
             "weight" : 100
         },
         {
             "address" : "8KXAthBdtPWokQRXB93FzPTKvBH5WXdTxV",
-            "weight" : 100
-        },
-        {
-            "address" : "8ZzENdnyZLDvsZPJmZhQYtdzaBwSKDLXGX",
             "weight" : 100
         },
         {
