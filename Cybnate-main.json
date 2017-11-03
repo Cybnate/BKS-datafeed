@@ -11,32 +11,16 @@
     },
     "reputations" : [
         {
-            "address" : "8KXAthBdtPWokQRXB93FzPTKvBH5WXdTxV",
-            "weight" : 100
-        },
-        {
             "address" : "8ZzENdnyZLDvsZPJmZhQYtdzaBwSKDLXGX",
-            "weight" : 100
+            "weight" : 1
         },
         {
-            "address" : "8c3VfkYUUaFWp75SiMhFasmWwmYVoWqTaT",
-            "weight" : 100
-        },
-        {
-            "address" : "8WP6o6HrXQwc8hfhZPKzGGdd238UqCsRqz",
-            "weight" : 100
-        },
-        {
-            "address" : "8eA3FVjGUE2KFDJy6qSQxZb3MZdoqLf3ZL",
-            "weight" : 100
-        },
-        {
-            "address" : "8VTtwxu2T1yYUiXoq8BtGAjXxwPySRfFaX",
-            "weight" : 100
+            "address" : "8Z3cSbWKeCiE5A15dJpsHmou34w5BYVHqM",
+            "weight" : -5
         }
     ],
     "signerreward" : {
-        "count" : 8,
+        "count" : 6,
         "amount" : 0.01
     },
     "assets" : [
